@@ -41,7 +41,7 @@ Refresh rate: 240 Hz
 
 ===========
 
-Advanced video settings:    
+**Advanced video settings: **   
 Boost player contrast: Enabled    
 Wait for vertical sync: Disabled    
 Multisampling anti-aliasing mode: 4x MSAA    
