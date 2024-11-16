@@ -1,3 +1,4 @@
+NOTE: Save configuration file (autoexec.cfg) in C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\cfg (DEFAULT WIN DIR)
 Now your autoexec needs to launch every time you launch the game, so navigate to your Steam library again.
 
     Right click ‘Counter-Strike: Global Offensive’.
