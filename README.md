@@ -5,12 +5,12 @@ Now your autoexec needs to launch every time you launch the game, so navigate to
     Click ‘Set Launch Options’.
     Write ‘+exec autoexec.cfg’ and then click ‘OK’.
 
-Viewmodel:
-viewmodel_fov 68
-viewmodel_offset_x 2.2
-viewmodel_offset_y 2
-viewmodel_offset_z -2
-viewmodel_presetpos 0
+Viewmodel: 
+viewmodel_fov 68     
+viewmodel_offset_x 2.2    
+viewmodel_offset_y 2    
+viewmodel_offset_z -2    
+viewmodel_presetpos 0    
 
 HUD:
 hud_scaling 1
