@@ -36,3 +36,19 @@ Brightness: 93%
 Format: 4:3 (Stretched)    
 Resolution 1280x1024    
 Refresh rate: 240 Hz    
+
+===========
+
+Advanced video settings:    
+Boost player contrast: Enabled    
+Wait for vertical sync: Disabled    
+Multisampling anti-aliasing mode: 4x MSAA    
+Global shadow quality: Low    
+Model/texture detail: Medium    
+Texture filtering mode: Bilinear    
+Shader detail: Low    
+Particle detail: Low    
+Ambient occlusion: Medium    
+High dynamic range: Performance    
+FidelityFX super resoultion: Disabled (Highest quality)    
+NVIDIA reflex - low latency: Enabled    
