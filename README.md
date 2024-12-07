@@ -7,6 +7,8 @@ Now your autoexec needs to launch every time you launch the game, so navigate to
     Click ‘Set Launch Options’.
     Write ‘+exec autoexec.cfg’ and then click ‘OK’.
 
+# Following is just another example of what is already configured.
+# USE autoexec.cfg code
 Viewmodel:     
 viewmodel_fov 68     
 viewmodel_offset_x 2.2    
@@ -28,16 +30,17 @@ cl_radar_always_centered 1
 cl_radar_rotate 1    
 cl_radar_icon_scale_min 0.6    
 
-Mouse settings:    
+
+# Mouse settings recommendations   
 DPI: 800    
 CS2 sensitivity: 1.77    
 Windows sensitivity: 6/11 (default)    
 
-Video settings:    
+# Video settings recommendations    
 Brightness: 93%    
 Format: 4:3 (Stretched)    
 Resolution 1280x1024    
-Refresh rate: 240 Hz    
+Refresh rate: 240 Hz (or ABOVE)
 
 ===========
 
