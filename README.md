@@ -57,3 +57,7 @@ Ambient occlusion: Medium
 High dynamic range: Performance    
 FidelityFX super resoultion: Disabled (Highest quality)    
 NVIDIA reflex - low latency: Enabled    
+
+# NOTES:
+Check for hardware (Vendor specific) Power Management e.g. ASUS ROG can switch between power modes with Fn+special key on their laptops. 
+Make sure it is on 'Performance/Turbo'
